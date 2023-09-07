@@ -29,4 +29,12 @@ Consulta las ramas disponibles
 Crea una rama con el nombre que le asignen
 
 9. git checkout nombrerama
-Sirve para moverse entre ramas
+Sirve para moverse entre ramas.
+
+10. git merge nombrerama
+fusiona los cambios de una rama dentro de Ia rama principal.
+Tener en cuenta que para hacer el merge :
+
+a. La rama no debe tener add ni comits pendientes
+b. Debemos movernos a la rama principal. Pues Ia fusion o merge no
+funciona desde una rama
