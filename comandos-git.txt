@@ -10,4 +10,7 @@ Situación actual de mi proyecto
 
 3. git add .
 
-Le decimos a GIT que guarde todos los archivos nuevos que detecta   
+Le decimos a GIT que guarde todos los archivos nuevos que detecte.
+
+4. git comit -m "mensaje indicativo del cambio"
+Con este comando confirmamos los cambios que hicimos hasta ese momento
