@@ -1,0 +1,13 @@
+.navbar{
+    background-color: red;
+}
+
+
+#carruselExample{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.carousel-item img{
+    height: 500px;
+}

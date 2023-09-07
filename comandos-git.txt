@@ -1,0 +1,13 @@
+Comandos basicos GIT
+
+1. git init
+
+Inicializa o activa git en nuestros proyectos
+
+2. git status
+
+Situación actual de mi proyecto
+
+3. git add .
+
+Le decimos a GIT que guarde todos los archivos nuevos que detecta   
